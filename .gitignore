@@ -3,6 +3,22 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# .virtual_documents
+.virtual_documents/
+
+# ipynb_checkpoints
+.ipynb_checkpoints/
+
+# dataset
+dataset/
+data/
+
+# sample
+sample/
+
+# output
+output/
+
 # C extensions
 *.so
 
